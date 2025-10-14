@@ -4,7 +4,7 @@ Description: Test bucket using Cloud Formation
 Parameters:
   BucketName:
     Type: String
-    Default: cloudformation-bucket-rp
+    Default: cf-bucket-rp
 Resources:
 
   MainBucket:
