@@ -14,7 +14,7 @@ Resources:
 
       ## Enable versioning
       VersioningConfiguration:
-        Status: Suspend
+        Status: Suspended
 
       ## Block public access
       PublicAccessBlockConfiguration:
