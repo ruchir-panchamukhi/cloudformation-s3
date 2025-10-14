@@ -1,0 +1,4 @@
+template-file-path: template.yaml
+parameters:
+  BucketName: cf-bucket-rp
+tags: {}
