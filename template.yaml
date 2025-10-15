@@ -13,9 +13,8 @@ Resources:
       BucketName: !Ref BucketName
 
       VersioningConfiguration:
-        Status: Suspended
+        Status: Enabled #Suspended
 
-      ## Block public access
       PublicAccessBlockConfiguration:
         BlockPublicAcls: true
         BlockPublicPolicy: true
