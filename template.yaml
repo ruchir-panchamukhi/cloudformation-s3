@@ -12,7 +12,6 @@ Resources:
     Properties:
       BucketName: !Ref BucketName
 
-      ## Enable versioning
       VersioningConfiguration:
         Status: Suspended
 
